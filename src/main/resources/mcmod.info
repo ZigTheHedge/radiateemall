@@ -1,0 +1,16 @@
+[
+{
+  "modid": "radiateemall",
+  "name": "Radiate'em All",
+  "description": "Bad things happen when one's exposed to sun",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZigTheHedge"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

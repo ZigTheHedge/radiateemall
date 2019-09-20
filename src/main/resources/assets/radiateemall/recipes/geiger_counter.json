@@ -1,0 +1,27 @@
+{
+  "result": {
+    "item": "radiateemall:geiger_counter"
+  },
+  "pattern": [
+    "aaa",
+    "bcb",
+    " d "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "minecraft:emerald"
+    },
+    "d": {
+      "type": "forge:ore_dict",
+      "ore": "ingotGold"
+    }
+  }
+}

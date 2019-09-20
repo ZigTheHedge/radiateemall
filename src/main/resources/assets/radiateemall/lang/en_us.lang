@@ -1,0 +1,16 @@
+item.geiger_counter.name=Geiger Counter
+item.radpills.name=RAD Pills
+radleveltb.safe.title=Radiation will emerge in %d hours. Effective radiation level: §aSafe!§f (%d/%d%%)
+radleveltb.caution.title=Radiation will emerge in %d hours. Effective radiation level: §eCaution!§f (%d/%d%%)
+radleveltb.warning.title=Radiation will emerge in %d hours. Effective radiation level: §6Warning!§f (%d/%d%%)
+radleveltb.dangerous.title=Radiation will emerge in %d hours. Effective radiation level: §4Dangerous!§f (%d/%d%%)
+radleveltb.critical.title=Radiation will emerge in %d hours. Effective radiation level: §4Critical!§f (%d/%d%%)
+
+radlevel.safe.title=Effective radiation level: §aSafe!§f (%d/%d%%)
+radlevel.caution.title=Effective radiation level: §eCaution!§f (%d/%d%%)
+radlevel.warning.title=Effective radiation level: §6Warning!§f (%d/%d%%)
+radlevel.dangerous.title=Effective radiation level: §4Dangerous!§f (%d/%d%%)
+radlevel.critical.title=Effective radiation level: §4Critical!§f (%d/%d%%)
+
+command.reloadconfig=Config reloaded.
+command.setradiation=Radiation level for %s set to %d.

@@ -1,0 +1,7 @@
+{
+	"geiger": { 
+		"category": "player", 
+		"sounds": ["radiateemall:geiger"], 
+		"subtitle": "radiateemall.subtitle.geiger" 
+	}
+}
